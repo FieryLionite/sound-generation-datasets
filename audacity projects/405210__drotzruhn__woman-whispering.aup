@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="405210__drotzruhn__woman-whispering_data" version="1.3.0" audacityversion="2.3.3" sel0="26.4133887240" sel1="27.3479406528" vpos="0" h="0.0000000000" zoom="60.9917953668" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="405210__drotzruhn__woman-whispering" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1326080">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b46.au" len="262144" min="-0.231359" max="0.227133" rms="0.015926"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808df6.au" len="262144" min="-0.226591" max="0.223321" rms="0.021185"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e08080ee.au" len="262144" min="-0.230824" max="0.249808" rms="0.016802"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0808af1.au" len="262144" min="-0.657326" max="0.648526" rms="0.020695"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808018.au" len="262144" min="-0.250966" max="0.383011" rms="0.020417"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0808b4a.au" len="15360" min="-0.003543" max="0.002856" rms="0.001041"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" isSelected="0" height="73" minimized="0" numlabels="14">
+		<label t="0.2295390702" t1="1.6723560831" title="251"/>
+		<label t="2.2134124629" t1="3.2791295747" title="262"/>
+		<label t="4.1644945598" t1="5.2138160237" title="27"/>
+		<label t="5.6073115727" t1="6.6238417409" title="28"/>
+		<label t="7.1648981207" t1="8.6077151335" title="29"/>
+		<label t="9.1651671612" t1="11.4277665678" title="30"/>
+		<label t="11.8704490603" t1="12.6246488625" title="31"/>
+		<label t="12.9361661721" t1="14.3297962413" title="32"/>
+		<label t="14.6741048467" t1="17.0186824926" title="33"/>
+		<label t="17.4941562809" t1="20.4289772502" title="34"/>
+		<label t="20.9536379822" t1="22.1833115727" title="35"/>
+		<label t="22.2980811078" t1="23.7408981207" title="36"/>
+		<label t="23.8392720079" t1="25.8231454006" title="37"/>
+		<label t="26.4133887240" t1="27.3479406528" title="38"/>
+	</labeltrack>
+</project>
